@@ -14,6 +14,8 @@
   <a href="https://smithery.ai/protocol/@automatalabs/mcp-server-playwright"><img alt="Smithery Installs" src="https://smithery.ai/badge/@automatalabs/mcp-server-playwright" height="20"/></a>
 </p>
 
+<a href="https://glama.ai/mcp/servers/9q4zck8po5"><img width="380" height="200" src="https://glama.ai/mcp/servers/9q4zck8po5/badge" alt="MCP-Server-Playwright MCP server" /></a>
+
 ## Table of Contents
 
 - [Features](#features)

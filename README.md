@@ -109,6 +109,15 @@ Now, you can use all the browser automation tools provided by MCP Server Playwri
 
 > **Note:** Make sure you have Node.js installed and `npx` available in your system PATH.
 
+
+
+## Running evals
+
+The evals package loads an mcp client that then runs the index.ts file, so there is no need to rebuild between tests. You can load environment variables by prefixing the npx command. Full documentation can be found [here](https://www.mcpevals.io/docs).
+
+```bash
+OPENAI_API_KEY=your-key  npx mcp-eval evals.ts index.ts
+```
 ## Components
 
 ### Tools
